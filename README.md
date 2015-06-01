@@ -2,7 +2,7 @@
 ## Running the test
 ### Windows
 
-- Clone this repository: `git clone https://github.com/alancnet/codetest-1`
+- Clone this repository: `git clone https://github.com/nextdude/codetest-1`
 - Or click [![](http://i.imgur.com/Su6om9f.png)](archive/master.zip), and unzip to a directory.
 - Using Windows Explorer, browse to `codetest-1\test`, and double click on `test.cmd`
 
@@ -20,7 +20,7 @@
 - Install dependencies
   - Mac: `sudo yum install git scala mono-devel fsharp nodejs npm openjdk-7-jdk`
   - Ubuntu: `sudo apt-get install git scala mono-devel fsharp nodejs npm openjdk-7-jdk`
-- Clone this repository: `git clone https://github.com/alancnet/codetest-1`
+- Clone this repository: `git clone https://github.com/nextdude/codetest-1`
 - Run the test script
   - `cd codetest-1/test`
   - `sh test.sh`
